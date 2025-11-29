@@ -1,5 +1,6 @@
-## Hi there 👋
-
+Hi,I'm B.Deekshith Reddy
+java Developer
+current project:web scraping
 <!--
 **deekshith-coder/deekshith-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
